@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T16:00:38 IST" name="Suite" finished-at="2024-08-03T16:00:51 IST" duration-ms="13500">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T16:00:38 IST" name="Test" finished-at="2024-08-03T16:00:51 IST" duration-ms="13500">
+      <class name="com.qa.fitpeo.testcases.TestCase001">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.fitpeo.testcases.TestCase001@59fd97a8]" started-at="2024-08-03T16:00:38 IST" name="start" finished-at="2024-08-03T16:00:43 IST" duration-ms="5758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="testCaseIDOne()[pri:0, instance:com.qa.fitpeo.testcases.TestCase001@59fd97a8]" started-at="2024-08-03T16:00:43 IST" name="testCaseIDOne" finished-at="2024-08-03T16:00:51 IST" duration-ms="7305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseIDOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.fitpeo.testcases.TestCase001@59fd97a8]" started-at="2024-08-03T16:00:51 IST" name="tearDown" finished-at="2024-08-03T16:00:51 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.fitpeo.testcases.TestCase001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
